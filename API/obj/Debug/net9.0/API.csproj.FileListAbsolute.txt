@@ -148,3 +148,4 @@
 /Users/uraapko/Documents/Repos/Udemy/ASP.NET Core API and Angular/DatingApp/API/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/uraapko/Documents/Repos/Udemy/ASP.NET Core API and Angular/DatingApp/API/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/uraapko/Documents/Repos/Udemy/ASP.NET Core API and Angular/DatingApp/API/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/uraapko/Documents/Repos/Udemy/ASP.NET Core API and Angular/DatingApp/API/obj/Debug/net9.0/API.sourcelink.json
