@@ -41,3 +41,29 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+# .NET build output
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+*.user
+
+# Build artifacts
+*.dll
+*.pdb
+*.cache
+*.deps.json
+
+# Angular / Node
+node_modules/
+dist/
+
+bin/
+obj/
+*.dll
+*.pdb
+*.cache
+*.deps.json
+``
