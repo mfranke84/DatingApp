@@ -59,3 +59,11 @@ obj/
 # Angular / Node
 node_modules/
 dist/
+
+bin/
+obj/
+*.dll
+*.pdb
+*.cache
+*.deps.json
+``
