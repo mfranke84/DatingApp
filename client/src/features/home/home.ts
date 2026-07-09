@@ -9,10 +9,9 @@ import { User } from '../../types/user';
   styleUrl: './home.css',
 })
 export class Home {
-  @Input({required: true}) membersFromApp: User[] = [];
-  protected regsiterMode = signal(false);
+  protected registerMode = signal(false);
 
-  showRegister() {
-    this.regsiterMode.set(true);
+  showRegister(value: boolean) {
+    this.registerMode.set(value);
   }
 }
